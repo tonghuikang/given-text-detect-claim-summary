@@ -132,4 +132,5 @@ This is a Python wrapper for Stanford OpenIE to extract the SVO triples. We coul
 
 
 ## Current solution
-???
+API that don't really work :/ 
+https://github.com/tonghuikang/given-text-detect-claim-api
